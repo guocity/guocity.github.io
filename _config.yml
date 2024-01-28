@@ -29,7 +29,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  
 
-# Build settings
+# Build settings 
+#I need new theme default minima:  jekyll-theme-chirpy
 theme: minima
 plugins:
   - jekyll-feed
