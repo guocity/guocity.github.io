@@ -31,7 +31,7 @@ github_username:
 
 # Build settings 
 #I need new theme default minima:  jekyll-theme-chirpy
-theme: minima
+theme: jekyll-theme-chirpy
 plugins:
   - jekyll-feed
 
