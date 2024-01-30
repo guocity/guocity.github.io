@@ -1,10 +1,11 @@
 ---
 layout: post
 title:  "Court Opinion of Elon Musk Compensation Lawsuit"
-date:   2024-01-30 19:58:44 -0500
+date:   2024-01-30 11:58:44 -0500
 categories: jekyll update
 ---
 
+[中文翻译](#中文翻译)
 
 https://courts.delaware.gov/Opinions/Download.aspx?id=359340
 
@@ -72,6 +73,7 @@ Here is a summary of part 5 of the current page:
 - **The stockholder vote on the Grant** - The court rejects the plaintiff's argument that the vote was legally required and thus invalidates the Grant due to disclosure failures. The court holds that the vote was voluntary and only affected the standard of review, not the validity of the transaction.
 - **The remedy of rescission** - The court exercises its discretion to order rescission of the Grant as a remedy for the defendants' fiduciary breaches¹. The court finds that rescission is reasonable, appropriate, and practicable, and that the defendants failed to prove that the Grant was fair or to offer a viable alternative remedy². The court also resolves any uncertainty in awarding damages against the defendants as the wrongdoers.
 
+# 中文翻译
 Chinese Translation:
 以下是法院意见的摘要：
 
