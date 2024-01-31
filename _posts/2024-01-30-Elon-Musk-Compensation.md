@@ -2,7 +2,7 @@
 layout: post
 title:  "Court Opinion of Elon Musk Compensation Lawsuit"
 date:   2024-01-30 11:58:44 -0500
-categories: jekyll update
+categories: Court Case
 ---
 
 [中文翻译](#中文翻译)
