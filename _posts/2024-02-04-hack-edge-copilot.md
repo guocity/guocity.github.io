@@ -7,7 +7,11 @@ categories: Hackathon
 
 # Hack Edge Copilot
 
-eventhough I can't scccessfully connect to wss socket, here is what I learn
+eventhough I can't scccessfully connect to wss socket, to initiate chat in postman, here is what I learn
+
+## edge truncate service
+    
+    https://edgeservices.bing.com/edgesvc/postaj/sydneytruncationswithcontext?SID=####################
 
 ## bing conversation is in Chathub wss socket
 
