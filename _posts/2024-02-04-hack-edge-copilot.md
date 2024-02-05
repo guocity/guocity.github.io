@@ -24,6 +24,7 @@ https://edgeservices.bing.com/edgesvc/turing/conversation/create?bundleVersion=1
 
 ## Interesting Setting
 prompt is **Generate video highlights**
+
 ```json
 "message": {
                 "inputMethod": "Keyboard",
@@ -45,6 +46,7 @@ prompt is **Generate video highlights**
                 }
             ],
 ```
+
 for PDF Files
 
 ```json
@@ -194,3 +196,4 @@ for PDF Files
     "target": "chat",
     "type": 4
 }
+```
