@@ -53,8 +53,8 @@ for PDF Files
 "message": {
     "text": "Generate document summary, (part 1 only)",
     "messageType": "CurrentWebpageContextRequest",
-    "requestId": "33b75510-f8e9-3f1f-5850-29ff2dc40f88",
-    "messageId": "33b75510-f8e9-3f1f-5850-29ff2dc40f88",
+    "requestId": "abcdefg-6497-xyz",
+    "messageId": "abcdefg-6497-xyz",
     "privacy": "Internal"
 }
 ```
