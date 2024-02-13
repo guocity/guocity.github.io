@@ -15,4 +15,4 @@ New Build of VSCode is able to past html code directly into the editor and it wi
 ## Youtube link:
 https://www.youtube.com/watch?v=z-nwJcGAiYQ
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/z-nwJcGAiYQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/z-nwJcGAiYQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
