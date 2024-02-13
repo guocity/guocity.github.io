@@ -9,10 +9,12 @@ VSCode Magic
 ============
 New Build of VSCode is able to past html code directly into the editor and it will render it as html.  This is a great feature for web developers.
 
+VS Code Suddenly become best text editor in the world.
 
+Highly recommand everybody to learn it and replace your current text editor with it.
 
 
 ## Youtube link:
 https://www.youtube.com/watch?v=z-nwJcGAiYQ
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/z-nwJcGAiYQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z-nwJcGAiYQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
