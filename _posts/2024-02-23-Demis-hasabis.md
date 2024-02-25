@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Demis Hassabis on Chatbots to AGI | EP 71"
+title:  "Demis Hassabis on Chatbots to AGI"
 date:   2024-02-23
 categories: podcast
 ---
