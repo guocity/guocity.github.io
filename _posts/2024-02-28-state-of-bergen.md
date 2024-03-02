@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "State Of Bergen"
+title:  "State Of Bergen 郡情咨文"
 date:   2024-02-28
 categories: news
 ---
