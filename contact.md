@@ -1,6 +1,6 @@
 ---
 layout: page
-title: This is a test of contact
+title: Contact
 permalink: /contact/
 ---
 
