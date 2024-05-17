@@ -1,4 +1,4 @@
-# how to change theme in jekyll
+# theme
 
 theme repo:
 
