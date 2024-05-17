@@ -8,9 +8,9 @@ categories: travel
 https://www.youtube.com/watch?v=kIJcdNF45WQ
 
 
-![alt text](image.png)
+![King Crab](/assets/images/kingcrab-1.png)
 # Seafood Spectacular Buffet in Las Vegas
-![alt text](image-1.png)
+![King Crab](/assets/images/kingcrab-2.png)
 
 | Buffet Name | Hours | Price | Special Features |
 |-------------|-------|-------|------------------|
